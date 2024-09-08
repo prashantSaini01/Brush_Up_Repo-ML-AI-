@@ -1,0 +1,280 @@
+season,episode_num_in_season,episode_num_overall,title,directed_by,written_by,original_air_date,prod_code,us_viewers
+1,1,1,Pilot,James Burrows,Chuck Lorre & Bill Prady,2007-09-24,276023,9520000.0
+1,2,2,The Big Bran Hypothesis,Mark Cendrowski,Story by: Chuck Lorre & Bill PradyTeleplay by: Robert Cohen & Dave Goetsch,2007-10-01,3T6601,8580000.0
+1,3,3,The Fuzzy Boots Corollary,Mark Cendrowski,Story by: Chuck LorreTeleplay by: Bill Prady & Steven Molaro,2007-10-08,3T6602,8359999.999999999
+1,4,4,The Luminous Fish Effect,Mark Cendrowski,Story by: Chuck Lorre & Bill PradyTeleplay by: David Litt & Lee Aronsohn,2007-10-15,3T6603,8150000.0
+1,5,5,The Hamburger Postulate,Andrew D. Weyman,Story by: Jennifer GlickmanTeleplay by: Dave Goetsch & Steven Molaro,2007-10-22,3T6604,8810000.0
+1,6,6,The Middle Earth Paradigm,Mark Cendrowski,Story by: Dave GoetschTeleplay by: David Litt & Robert Cohen,2007-10-29,3T6605,8920000.0
+1,7,7,The Dumpling Paradox,Mark Cendrowski,Story by: Chuck Lorre & Bill PradyTeleplay by: Lee Aronsohn & Jennifer Glickman,2007-11-05,3T6606,9680000.0
+1,8,8,The Grasshopper Experiment,Ted Wass,Story by: Dave Goetsch & Steven MolaroTeleplay by: Lee Aronsohn & Robert Cohen,2007-11-12,3T6607,9320000.0
+1,9,9,The Cooper-Hofstadter Polarization,Joel Murray,Story by: Bill Prady & Stephen EngelTeleplay by: Chuck Lorre & Lee Aronsohn & Dave Goetsch,2008-03-17,3T6608,9110000.0
+1,10,10,The Loobenfeld Decay,Mark Cendrowski,Story by: Chuck LorreTeleplay by: Bill Prady & Lee Aronsohn,2008-03-24,3T6609,8630000.0
+1,11,11,The Pancake Batter Anomaly,Mark Cendrowski,Story by: Chuck Lorre & Lee AronsohnTeleplay by: Bill Prady & Stephen Engel,2008-03-31,3T6610,8680000.0
+1,12,12,The Jerusalem Duality,Mark Cendrowski,Story by: Jennifer Glickman & Stephen EngelTeleplay by: Dave Goetsch & Steven Molaro,2008-04-14,3T6611,7690000.0
+1,13,13,The Bat Jar Conjecture,Mark Cendrowski,Story by: Stephen Engel & Jennifer GlickmanTeleplay by: Bill Prady & Robert Cohen,2008-04-21,3T6612,7510000.0
+1,14,14,The Nerdvana Annihilation,Mark Cendrowski,Story by: Bill PradyTeleplay by: Stephen Engel & Steven Molaro,2008-04-28,3T6613,8070000.0
+1,15,15,The Pork Chop Indeterminacy,Mark Cendrowski,Story by: Chuck LorreTeleplay by: Lee Aronsohn & Bill Prady,2008-05-05,3T6614,7380000.0
+1,16,16,The Peanut Reaction,Mark Cendrowski,Story by: Bill Prady & Lee AronsohnTeleplay by: Dave Goetsch & Steven Molaro,2008-05-12,3T6615,7790000.0
+1,17,17,The Tangerine Factor,Mark Cendrowski,Story by: Chuck Lorre & Bill PradyTeleplay by: Lee Aronsohn & Steven Molaro,2008-05-19,3T6616,7340000.0
+2,1,18,The Bad Fish Paradigm,Mark Cendrowski,Story by: Bill PradyTeleplay by: Dave Goetsch & Steven Molaro,2008-09-22,3T7351,9360000.0
+2,2,19,The Codpiece Topology,Mark Cendrowski,Story by: Chuck LorreTeleplay by: Bill Prady & Lee Aronsohn,2008-09-29,3T7352,8760000.0
+2,3,20,The Barbarian Sublimation,Mark Cendrowski,Story by: Nicole LorreTeleplay by: Steven Molaro & Eric Kaplan,2008-10-06,3T7353,9330000.0
+2,4,21,The Griffin Equivalency,Mark Cendrowski,Story by: Bill Prady & Chuck LorreTeleplay by: Stephen Engel & Tim Doyle,2008-10-13,3T7354,9360000.0
+2,5,22,The Euclid Alternative,Mark Cendrowski,Story by: Bill Prady & Steven MolaroTeleplay by: Lee Aronsohn & Dave Goetsch,2008-10-20,3T7355,9280000.0
+2,6,23,The Cooper-Nowitzki Theorem,Mark Cendrowski,Story by: Stephen Engel & Daley HaggarTeleplay by: Tim Doyle & Richard Rosenstock,2008-11-03,3T7356,9670000.0
+2,7,24,The Panty Piñata Polarization,Mark Cendrowski,Story by: Bill Prady & Tim DoyleTeleplay by: Jennifer Glickman & Steven Molaro,2008-11-10,3T7357,10010000.0
+2,8,25,The Lizard-Spock Expansion,Mark Cendrowski,Story by: Bill PradyTeleplay by: Dave Goetsch & Jennifer Glickman,2008-11-17,3T7358,9760000.0
+2,9,26,The White Asparagus Triangulation,Mark Cendrowski,Story by: Dave Goetsch & Steven MolaroTeleplay by: Stephen Engel & Richard Rosenstock,2008-11-24,3T7359,10190000.0
+2,10,27,The Vartabedian Conundrum,Mark Cendrowski,Story by: Chuck Lorre & Steven MolaroTeleplay by: Bill Prady & Richard Rosenstock,2008-12-08,3T7360,10800000.0
+2,11,28,The Bath Item Gift Hypothesis,Mark Cendrowski,Story by: Bill Prady & Richard RosenstockTeleplay by: Stephen Engel & Eric Kaplan,2008-12-15,3T7361,11420000.0
+2,12,29,The Killer Robot Instability,Mark Cendrowski,Story by: Bill Prady & Richard RosenstockTeleplay by: Steven Molaro & Daley Haggar,2009-01-12,3T7362,11810000.0
+2,13,30,The Friendship Algorithm,Mark Cendrowski,Story by: Bill Prady & Richard RosenstockTeleplay by: Chuck Lorre & Steven Molaro,2009-01-19,3T7363,11100000.0
+2,14,31,The Financial Permeability,Mark Cendrowski,Story by: Chuck Lorre & Steven MolaroTeleplay by: Richard Rosenstock & Eric Kaplan,2009-02-02,3T7364,10890000.0
+2,15,32,The Maternal Capacitance,Mark Cendrowski,Story by: Chuck Lorre & Bill PradyTeleplay by: Richard Rosenstock & Steven Molaro,2009-02-09,3T7365,13110000.0
+2,16,33,The Cushion Saturation,Mark Cendrowski,Story by: Chuck LorreTeleplay by: Bill Prady & Lee Aronsohn,2009-03-02,3T7366,10940000.0
+2,17,34,The Terminator Decoupling,Mark Cendrowski,Story by: Bill Prady & Dave GoetschTeleplay by: Tim Doyle & Stephen Engel,2009-03-09,3T7367,9460000.0
+2,18,35,The Work Song Nanocluster,Peter Chakos,Story by: Bill Prady & Lee AronsohnTeleplay by: Dave Goetsch & Richard Rosenstock,2009-03-16,3T7368,9760000.0
+2,19,36,The Dead Hooker Juxtaposition,Mark Cendrowski,Steven Molaro,2009-03-30,3T7369,9770000.0
+2,20,37,The Hofstadter Isotope,Mark Cendrowski,Dave Goetsch,2009-04-13,3T7370,10130000.0
+2,21,38,The Vegas Renormalization,Mark Cendrowski,Story by: Jessica Ambrosetti & Nicole Lorre & Andrew RothTeleplay by: Steven Molaro,2009-04-27,3T7371,9310000.0
+2,22,39,The Classified Materials Turbulence,Mark Cendrowski,Story by: Chuck Lorre & Lee AronsohnTeleplay by: Bill Prady & Steven Molaro,2009-05-04,3T7373,9250000.0
+2,23,40,The Monopolar Expedition,Mark Cendrowski,Eric Kaplan & Richard Rosenstock,2009-05-11,3T7372,9810000.0
+3,1,41,The Electric Can Opener Fluctuation,Mark Cendrowski,Steven Molaro,2009-09-21,3X5551,12960000.0
+3,2,42,The Jiminy Conjecture,Mark Cendrowski,Jim Reynolds,2009-09-28,3X5552,13270000.0
+3,3,43,The Gothowitz Deviation,Mark Cendrowski,Story by: Lee Aronsohn & Richard RosenstockTeleplay by: Bill Prady & Maria Ferrari,2009-10-05,3X5553,12520000.0
+3,4,44,The Pirate Solution,Mark Cendrowski,Steve Holland,2009-10-12,3X5554,13070000.0
+3,5,45,The Creepy Candy Coating Corollary,Mark Cendrowski,Story by: Chuck Lorre & Bill PradyTeleplay by: Lee Aronsohn & Steven Molaro,2009-10-19,3X5556,13470000.0
+3,6,46,The Cornhusker Vortex,Mark Cendrowski,Story by: Bill Prady & Steven MolaroTeleplay by: Dave Goetsch & Richard Rosenstock,2009-11-02,3X5555,12730000.0
+3,7,47,The Guitarist Amplification,Mark Cendrowski,Story by: Chuck Lorre & Lee AronsohnTeleplay by: Bill Prady & Richard Rosenstock & Jim Reynolds,2009-11-09,3X5557,12790000.0
+3,8,48,The Adhesive Duck Deficiency,Mark Cendrowski,Story by: Chuck Lorre & Bill Prady & Dave GoetschTeleplay by: Steven Molaro & Eric Kaplan & Maria Ferrari,2009-11-16,3X5558,13230000.0
+3,9,49,The Vengeance Formulation,Mark Cendrowski,Story by: Chuck Lorre & Maria FerrariTeleplay by: Richard Rosenstock & Jim Reynolds & Steve Holland,2009-11-23,3X5559,14130000.0
+3,10,50,The Gorilla Experiment,Mark Cendrowski,Story by: Chuck Lorre & Richard Rosenstock & Steve HollandTeleplay by: Bill Prady & Steven Molaro & Maria Ferrari,2009-12-07,3X5560,14380000.0
+3,11,51,The Maternal Congruence,Mark Cendrowski,Story by: Lee Aronsohn & Steven Molaro & Richard Rosenstock & Maria FerrariTeleplay by: Chuck Lorre & Bill Prady & Dave Goetsch,2009-12-14,3X5562,15580000.0
+3,12,52,The Psychic Vortex,Mark Cendrowski,Story by: Lee Aronsohn & Steven MolaroTeleplay by: Chuck Lorre & Eric Kaplan & Jim Reynolds,2010-01-11,3X5561,15820000.0
+3,13,53,The Bozeman Reaction,Mark Cendrowski,Story by: Bill Prady & Lee Aronsohn & Jim ReynoldsTeleplay by: Chuck Lorre & Steven Molaro & Steve Holland,2010-01-18,3X5563,14990000.0
+3,14,54,The Einstein Approximation,Mark Cendrowski,Story by: Lee Aronsohn & Dave Goetsch & Steve HollandTeleplay by: Chuck Lorre & Steven Molaro & Eric Kaplan,2010-02-01,3X5565,15510000.0
+3,15,55,The Large Hadron Collision,Mark Cendrowski,Story by: Chuck Lorre & Steven Molaro & Jim ReynoldsTeleplay by: Lee Aronsohn & Richard Rosenstock & Maria Ferrari,2010-02-08,3X5564,16260000.000000002
+3,16,56,The Excelsior Acquisition,Peter Chakos,Story by: Chuck Lorre & Lee Aronsohn & Steven MolaroTeleplay by: Bill Prady & Steve Holland & Maria Ferrari,2010-03-01,3X5566,15730000.0
+3,17,57,The Precious Fragmentation,Mark Cendrowski,Story by: Lee Aronsohn & Eric Kaplan & Maria FerrariTeleplay by: Bill Prady & Steven Molaro & Richard Rosenstock,2010-03-08,3X5567,16320000.0
+3,18,58,The Pants Alternative,Mark Cendrowski,Story by: Chuck Lorre & Bill Prady & Steve HollandTeleplay by: Eric Kaplan & Richard Rosenstock & Jim Reynolds,2010-03-22,3X5568,13420000.0
+3,19,59,The Wheaton Recurrence,Mark Cendrowski,Story by: Chuck Lorre & Steven Molaro & Nicole Lorre & Jessica AmbrosettiTeleplay by: Bill Prady & Dave Goetsch & Jim Reynolds & Maria Ferrari,2010-04-12,3X5569,13390000.0
+3,20,60,The Spaghetti Catalyst,Anthony Rich,Chuck Lorre & Bill Prady & Lee Aronsohn & Steven Molaro,2010-05-03,3X5570,11630000.0
+3,21,61,The Plimpton Stimulation,Mark Cendrowski,Story by: Chuck Lorre & Bill Prady & Lee AronsohnTeleplay by: Steven Molaro & Jim Reynolds & Maria Ferrari,2010-05-10,3X5571,13730000.0
+3,22,62,The Staircase Implementation,Mark Cendrowski,Story by: Lee Aronsohn & Steven Molaro & Steve HollandTeleplay by: Chuck Lorre & Dave Goetsch & Maria Ferrari,2010-05-17,3X5572,15020000.0
+3,23,63,The Lunar Excitation,Peter Chakos,Story by: Chuck Lorre & Bill Prady & Maria FerrariTeleplay by: Lee Aronsohn & Steven Molaro & Steve Holland,2010-05-24,3X5573,14780000.0
+4,1,64,The Robotic Manipulation,Mark Cendrowski,Story by: Chuck Lorre & Lee Aronsohn & Dave GoetschTeleplay by: Steven Molaro & Eric Kaplan & Steve Holland,2010-09-23,3X6651,14040000.0
+4,2,65,The Cruciferous Vegetable Amplification,Mark Cendrowski,Story by: Bill Prady & Lee Aronsohn & Steve HollandTeleplay by: Chuck Lorre & Steven Molaro & Jim Reynolds,2010-09-30,3X6652,13050000.0
+4,3,66,The Zazzy Substitution,Mark Cendrowski,Story by: Chuck Lorre & Bill Prady & Jim ReynoldsTeleplay by: Lee Aronsohn & Steven Molaro & Maria Ferrari,2010-10-07,3X6653,12590000.0
+4,4,67,The Hot Troll Deviation,Mark Cendrowski,Story by: Chuck Lorre & Steven Molaro & Adam FabermanTeleplay by: Bill Prady & Lee Aronsohn & Maria Ferrari,2010-10-14,3X6654,12570000.0
+4,5,68,The Desperation Emanation,Mark Cendrowski,Story by: Bill Prady & Lee Aronsohn & Dave GoetschTeleplay by: Chuck Lorre & Steven Molaro & Steve Holland,2010-10-21,3X6655,13050000.0
+4,6,69,The Irish Pub Formulation,Mark Cendrowski,Story by: Chuck Lorre & Lee Aronsohn & Steven MolaroTeleplay by: Bill Prady & Eric Kaplan & Maria Ferrari,2010-10-28,3X6656,13040000.0
+4,7,70,The Apology Insufficiency,Mark Cendrowski,Story by: Chuck Lorre & Lee Aronsohn & Maria FerrariTeleplay by: Bill Prady & Steven Molaro & Steve Holland,2010-11-04,3X6657,14000000.0
+4,8,71,The 21-Second Excitation,Mark Cendrowski,Story by: Chuck Lorre & Bill Prady & Jim ReynoldsTeleplay by: Lee Aronsohn & Steven Molaro & Steve Holland,2010-11-11,3X6658,13110000.0
+4,9,72,The Boyfriend Complexity,Mark Cendrowski,Story by: Chuck Lorre & Lee Aronsohn & Jim ReynoldsTeleplay by: Bill Prady & Steven Molaro & Dave Goetsch,2010-11-18,3X6659,13020000.0
+4,10,73,The Alien Parasite Hypothesis,Mark Cendrowski,Story by: Chuck Lorre & Steven Molaro & Steve HollandTeleplay by: Lee Aronsohn & Jim Reynolds & Maria Ferrari,2010-12-09,3X6660,12030000.0
+4,11,74,The Justice League Recombination,Mark Cendrowski,Story by: Chuck Lorre & Lee Aronsohn & Maria FerrariTeleplay by: Bill Prady & Steven Molaro & Steve Holland,2010-12-16,3X6661,13240000.0
+4,12,75,The Bus Pants Utilization,Mark Cendrowski,Story by: Chuck Lorre & Lee Aronsohn & Maria FerrariTeleplay by: Bill Prady & Steven Molaro & Eric Kaplan,2011-01-06,3X6662,13980000.0
+4,13,76,The Love Car Displacement,Anthony Rich,Story by: Chuck Lorre & Bill Prady & Dave GoetschTeleplay by: Lee Aronsohn & Steven Molaro & Steve Holland,2011-01-20,3X6663,13630000.0
+4,14,77,The Thespian Catalyst,Mark Cendrowski,Story by: Chuck Lorre & Lee Aronsohn & Jim ReynoldsTeleplay by: Bill Prady & Steven Molaro & Maria Ferrari,2011-02-03,3X6664,13830000.0
+4,15,78,The Benefactor Factor,Mark Cendrowski,Story by: Bill Prady & Lee Aronsohn & Dave GoetschTeleplay by: Chuck Lorre & Eric Kaplan & Steve Holland,2011-02-10,3X6665,12790000.0
+4,16,79,The Cohabitation Formulation,Mark Cendrowski,Story by: Chuck Lorre & Lee Aronsohn & Dave GoetschTeleplay by: Bill Prady & Steven Molaro & Jim Reynolds,2011-02-17,3X6666,12410000.0
+4,17,80,The Toast Derivation,Mark Cendrowski,Story by: Bill Prady & Dave Goetsch & Maria FerrariTeleplay by: Chuck Lorre & Steven Molaro & Jim Reynolds,2011-02-24,3X6667,12350000.0
+4,18,81,The Prestidigitation Approximation,Mark Cendrowski,Story by: Bill Prady & Steve Holland & Eddie GorodetskyTeleplay by: Chuck Lorre & Steven Molaro & Eric Kaplan,2011-03-10,3X6668,12060000.0
+4,19,82,The Zarnecki Incursion,Peter Chakos,Story by: Chuck Lorre & Steven Molaro & Maria FerrariTeleplay by: Bill Prady & Dave Goetsch & Jim Reynolds,2011-03-31,3X6669,11920000.0
+4,20,83,The Herb Garden Germination,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Eddie GorodetskyTeleplay by: Bill Prady & Steven Molaro & Steve Holland,2011-04-07,3X6670,11400000.0
+4,21,84,The Agreement Dissection,Mark Cendrowski,Story by: Bill Prady & Dave Goetsch & Eddie GorodetskyTeleplay by: Chuck Lorre & Steven Molaro & Eric Kaplan,2011-04-28,3X6671,10710000.0
+4,22,85,The Wildebeest Implementation,Mark Cendrowski,Story by: Chuck Lorre & Steven Molaro & Eric KaplanTeleplay by: Bill Prady & Eddie Gorodetsky & Maria Ferrari,2011-05-05,3X6672,10500000.0
+4,23,86,The Engagement Reaction,Howard Murray,Story by: Bill Prady & Eric Kaplan & Jim ReynoldsTeleplay by: Chuck Lorre & Steven Molaro & Steve Holland,2011-05-12,3X6673,10780000.0
+4,24,87,The Roommate Transmogrification,Mark Cendrowski,Story by: Chuck Lorre & Steven Molaro & Eddie GorodetskyTeleplay by: Bill Prady & Eric Kaplan & Jim Reynolds,2011-05-19,3X6674,11300000.0
+5,1,88,The Skank Reflex Analysis,Mark Cendrowski,Story by: Eric Kaplan & Maria Ferrari & Anthony Del BroccoloTeleplay by: Chuck Lorre & Bill Prady & Steven Molaro,2011-09-22,3X6851,14300000.0
+5,2,89,The Infestation Hypothesis,Mark Cendrowski,Story by: Bill Prady & Steven Molaro & Maria FerrariTeleplay by: Chuck Lorre & Jim Reynolds & Steve Holland,2011-09-22,3X6852,14940000.0
+5,3,90,The Pulled Groin Extrapolation,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Jim ReynoldsTeleplay by: Bill Prady & Steven Molaro & Dave Goetsch,2011-09-29,3X6853,14740000.0
+5,4,91,The Wiggly Finger Catalyst,Mark Cendrowski,Story by: Chuck Lorre & Dave Goetsch & Anthony Del BroccoloTeleplay by: Bill Prady & Steven Molaro & Steve Holland,2011-10-06,3X6854,13920000.0
+5,5,92,The Russian Rocket Reaction,Mark Cendrowski,Story by: Bill Prady & Steven Molaro & Jim ReynoldsTeleplay by: Chuck Lorre & Eric Kaplan & Maria Ferrari,2011-10-13,3X6855,13580000.0
+5,6,93,The Rhinitis Revelation,Howard Murray,Story by: Chuck Lorre & Eric Kaplan & Steve HollandTeleplay by: Bill Prady & Steven Molaro & Jim Reynolds,2011-10-20,3X6857,14930000.0
+5,7,94,The Good Guy Fluctuation,Mark Cendrowski,Story by: Chuck Lorre & Dave Goetsch & Maria FerrariTeleplay by: Bill Prady & Steven Molaro & Steve Holland,2011-10-27,3X6856,14540000.0
+5,8,95,The Isolation Permutation,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Tara HernandezTeleplay by: Bill Prady & Steven Molaro & Steve Holland,2011-11-03,3X6858,15980000.0
+5,9,96,The Ornithophobia Diffusion,Mark Cendrowski,Story by: Chuck Lorre & Dave Goetsch & Anthony Del BroccoloTeleplay by: Bill Prady & Steven Molaro & Eric Kaplan,2011-11-10,3X6859,15890000.0
+5,10,97,The Flaming Spittoon Acquisition,Mark Cendrowski,Story by: Chuck Lorre & Steven Molaro & Dave GoetschTeleplay by: Bill Prady & Jim Reynolds & Steve Holland,2011-11-17,3X6860,15050000.0
+5,11,98,The Speckerman Recurrence,Anthony Rich,Story by: Chuck Lorre & Bill Prady & Steve HollandTeleplay by: Steven Molaro & Eric Kaplan & Anthony Del Broccolo,2011-12-08,3X6861,14020000.0
+5,12,99,The Shiny Trinket Maneuver,Mark Cendrowski,Story by: Chuck Lorre & Steve Holland & Tara HernandezTeleplay by: Bill Prady & Steven Molaro & Jim Reynolds,2012-01-12,3X6862,16129999.999999998
+5,13,100,The Recombination Hypothesis,Mark Cendrowski,Story by: Chuck LorreTeleplay by: Bill Prady & Steven Molaro,2012-01-19,3X6863,15830000.0
+5,14,101,The Beta Test Initiation,Mark Cendrowski,Story by: Chuck Lorre & Steven Molaro & Eric KaplanTeleplay by: Bill Prady & Dave Goetsch & Maria Ferrari,2012-01-26,3X6864,16129999.999999998
+5,15,102,The Friendship Contraction,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Jim ReynoldsTeleplay by: Bill Prady & Steven Molaro & Steve Holland,2012-02-02,3X6865,16540000.0
+5,16,103,The Vacation Solution,Mark Cendrowski,Story by: Chuck Lorre & Anthony Del Broccolo & Tara HernandezTeleplay by: Bill Prady & Steven Molaro & Maria Ferrari,2012-02-09,3X6866,16210000.0
+5,17,104,The Rothman Disintegration,Mark Cendrowski,Story by: Chuck Lorre & Bill Prady & Steve HollandTeleplay by: Steven Molaro & Eric Kaplan & Jim Reynolds,2012-02-16,3X6867,15650000.0
+5,18,105,The Werewolf Transformation,Mark Cendrowski,Story by: Chuck Lorre & Todd Craig & Gary TorvinenTeleplay by: Bill Prady & Steven Molaro & Jim Reynolds & Maria Ferrari,2012-02-23,3X6868,16200000.0
+5,19,106,The Weekend Vortex,Mark Cendrowski,Story by: Chuck Lorre & Bill Prady & Tara HernandezTeleplay by: Steven Molaro & Eric Kaplan & Steve Holland,2012-03-08,3X6869,15040000.0
+5,20,107,The Transporter Malfunction,Mark Cendrowski,Story by: Chuck Lorre & Bill Prady & Maria FerrariTeleplay by: Steven Molaro & Jim Reynolds & Steve Holland,2012-03-29,3X6870,13960000.0
+5,21,108,The Hawking Excitation,Mark Cendrowski,Story by: Bill Prady & Steven Molaro & Steve HollandTeleplay by: Chuck Lorre & Eric Kaplan & Maria Ferrari,2012-04-05,3X6871,13290000.0
+5,22,109,The Stag Convergence,Peter Chakos,Story by: Billy Prady & Steve Holland & Eric KaplanTeleplay by: Chuck Lorre & Steven Molaro & Jim Reynolds,2012-04-26,3X6872,12650000.0
+5,23,110,The Launch Acceleration,Mark Cendrowski,Story by: Chuck Lorre & Steven Molaro & Jim ReynoldsTeleplay by: Bill Prady & Steve Holland & Maria Ferrari,2012-05-03,3X6873,13910000.0
+5,24,111,The Countdown Reflection,Mark Cendrowski,Story by: Bill Prady & Eric Kaplan & Steve HollandTeleplay by: Chuck Lorre & Steven Molaro & Jim Reynolds,2012-05-10,3X6874,13720000.0
+6,1,112,The Date Night Variable,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Steve HollandTeleplay by: Steven Molaro & Jim Reynolds & Maria Ferrari,2012-09-27,3X7601,15660000.0
+6,2,113,The Decoupling Fluctuation,Mark Cendrowski,Story by: Chuck Lorre & Jim Reynolds & Maria FerrariTeleplay by: Steven Molaro & Eric Kaplan & Steve Holland,2012-10-04,3X7602,15180000.0
+6,3,114,The Higgs Boson Observation,Mark Cendrowski,Story by: Steven Molaro & Dave Goetsch & Steve HollandTeleplay by: Chuck Lorre & Jim Reynolds & Maria Ferrari,2012-10-11,3X7603,14230000.0
+6,4,115,The Re-Entry Minimization,Mark Cendrowski,Story by: Bill Prady & Jim Reynolds & Anthony Del BroccoloTeleplay by: Chuck Lorre & Steven Molaro & Eric Kaplan,2012-10-18,3X7604,15730000.0
+6,5,116,The Holographic Excitation,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Jeremy HoweTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2012-10-25,3X7605,15820000.0
+6,6,117,The Extract Obliteration,Mark Cendrowski,Story by: Chuck Lorre & Bill Prady & Steve HollandTeleplay by: Steven Molaro & Jim Reynolds & Eric Kaplan,2012-11-01,3X7606,15900000.0
+6,7,118,The Habitation Configuration,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Jim ReynoldsTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2012-11-08,3X7607,16680000.0
+6,8,119,The 43 Peculiarity,Mark Cendrowski,Story by: Chuck Lorre & Dave Goetsch & Anthony Del BroccoloTeleplay by: Steven Molaro & Jim Reynolds & Steve Holland,2012-11-15,3X7608,17630000.0
+6,9,120,The Parking Spot Escalation,Peter Chakos,Story by: Chuck Lorre & Eric Kaplan & Adam FabermanTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2012-11-29,3X7609,17250000.0
+6,10,121,The Fish Guts Displacement,Mark Cendrowski,Story by: Chuck Lorre & Bill Prady & Tara HernandezTeleplay by: Steven Molaro & Eric Kaplan & Jim Reynolds,2012-12-06,3X7610,16940000.0
+6,11,122,The Santa Simulation,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Steve HollandTeleplay by: Steven Molaro & Jim Reynolds & Maria Ferrari,2012-12-13,3X7611,16770000.0
+6,12,123,The Egg Salad Equivalency,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Jim ReynoldsTeleplay by: Steven Molaro & Bill Prady & Steve Holland,2013-01-03,3X7612,19250000.0
+6,13,124,The Bakersfield Expedition,Mark Cendrowski,Story by: Chuck Lorre & Jim Reynolds & Steve HollandTeleplay by: Steven Molaro & Eric Kaplan & Maria Ferrari,2013-01-10,3X7613,20000000.0
+6,14,125,The Cooper/Kripke Inversion,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Anthony Del BroccoloTeleplay by: Steven Molaro & Jim Reynolds & Steve Holland,2013-01-31,3X7614,17760000.0
+6,15,126,The Spoiler Alert Segmentation,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Steve HollandTeleplay by: Steven Molaro & Maria Ferrari & Adam Faberman,2013-02-07,3X7615,18980000.0
+6,16,127,The Tangible Affection Proof,Mark Cendrowski,Story by: Chuck Lorre & Bill Prady & Steve HollandTeleplay by: Steven Molaro & Jim Reynolds & Tara Hernandez,2013-02-14,3X7616,17890000.0
+6,17,128,The Monster Isolation,Mark Cendrowski,Story by: Chuck Lorre & Dave Goetsch & Maria FerrariTeleplay by: Steven Molaro & Eric Kaplan & Steve Holland,2013-02-21,3X7617,17620000.0
+6,18,129,The Contractual Obligation Implementation,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Steve HollandTeleplay by: Steven Molaro & Jim Reynolds & Maria Ferrari,2013-03-07,3X7618,17630000.0
+6,19,130,The Closet Reconfiguration,Anthony Rich,Story by: Chuck Lorre & Jim Reynolds & Maria FerrariTeleplay by: Steven Molaro & Steve Holland & Eric Kaplan,2013-03-14,3X7619,15900000.0
+6,20,131,The Tenure Turbulence,Mark Cendrowski,Story by: Steven Molaro & Eric Kaplan & Maria FerrariTeleplay by: Chuck Lorre & Steve Holland & Jim Reynolds,2013-04-04,3X7620,17240000.0
+6,21,132,The Closure Alternative,Mark Cendrowski,Story by: Chuck Lorre & Bill Prady & Tara HernandezTeleplay by: Steven Molaro & Jim Reynolds & Steve Holland,2013-04-25,3X7621,15050000.0
+6,22,133,The Proton Resurgence,Mark Cendrowski,Story by: Chuck Lorre & Jim Reynolds & Steve HollandTeleplay by: Steven Molaro & Eric Kaplan & Maria Ferrari,2013-05-02,3X7622,16290000.0
+6,23,134,The Love Spell Potential,Anthony Rich,Story by: Chuck Lorre & Jim Reynolds & Maria FerrariTeleplay by: Steven Molaro & Eric Kaplan & Steve Holland,2013-05-09,3X7623,16300000.0
+6,24,135,The Bon Voyage Reaction,Mark Cendrowski,Story by: Steven Molaro & Steve Holland & Tara HernandezTeleplay by: Chuck Lorre & Jim Reynolds & Maria Ferrari,2013-05-16,3X7624,15480000.0
+7,1,136,The Hofstadter Insufficiency,Mark Cendrowski,Story by: Chuck Lorre & Steven Molaro & Tara HernandezTeleplay by: Eric Kaplan & Jim Reynolds & Steve Holland,2013-09-26,4X5301,18990000.0
+7,2,137,The Deception Verification,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Jim ReynoldsTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2013-09-26,4X5302,20440000.0
+7,3,138,The Scavenger Vortex,Mark Cendrowski,Story by: Dave Goetsch & Eric Kaplan & Steve HollandTeleplay by: Steven Molaro & Jim Reynolds & Maria Ferrari,2013-10-03,4X5303,18220000.0
+7,4,139,The Raiders Minimization,Mark Cendrowski,Story by: Chuck Lorre & Jim Reynolds & Tara HernandezTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2013-10-10,4X5304,17640000.0
+7,5,140,The Workplace Proximity,Mark Cendrowski,Story by: Steven Molaro & Steve Holland & Maria FerrariTeleplay by: Chuck Lorre & Eric Kaplan & Jim Reynolds,2013-10-17,4X5305,17800000.0
+7,6,141,The Romance Resonance,Mark Cendrowski,Story by: Eric Kaplan & Jim Reynolds & Tara HernandezTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2013-10-24,4X5306,16980000.0
+7,7,142,The Proton Displacement,Mark Cendrowski,Story by: Chuck Lorre & Maria Ferrari & Anthony Del BroccoloTeleplay by: Steven Molaro & Eric Kaplan & Jim Reynolds,2013-11-07,4X5307,16890000.0
+7,8,143,The Itchy Brain Simulation,Mark Cendrowski,Story by: Steven Molaro & Bill Prady & Jim ReynoldsTeleplay by: Eric Kaplan & Steve Holland & Maria Ferrari,2013-11-14,4X5308,18300000.0
+7,9,144,The Thanksgiving Decoupling,Mark Cendrowski,Story by: Eric Kaplan & Steve Holland & Maria FerrariTeleplay by: Steven Molaro & Jim Reynolds & Jeremy Howe,2013-11-21,4X5309,18940000.0
+7,10,145,The Discovery Dissipation,Mark Cendrowski,Story by: Eric Kaplan & Jim Reynolds & Maria FerrariTeleplay by: Steven Molaro & Steve Holland & Adam Faberman,2013-12-05,4X5310,15630000.0
+7,11,146,The Cooper Extraction,Mark Cendrowski,Story by: Steven Molaro & Eric Kaplan & Maria FerrariTeleplay by: Jim Reynolds & Steve Holland & Tara Hernandez,2013-12-12,4X5311,17680000.0
+7,12,147,The Hesitation Ramification,Mark Cendrowski,Story by: Dave Goetsch & Jim Reynolds & Tara HernandezTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2014-01-02,4X5312,19200000.0
+7,13,148,The Occupation Recalibration,Mark Cendrowski,Story by: Eric Kaplan & Maria Ferrari & Tara HernandezTeleplay by: Steven Molaro & Jim Reynolds & Steve Holland,2014-01-09,4X5313,20350000.0
+7,14,149,The Convention Conundrum,Mark Cendrowski,Story by: Eric Kaplan & Jim Reynolds & Adam FabermanTeleplay by: Steven Molaro & Dave Goetsch & Steve Holland,2014-01-30,4X5315,19050000.0
+7,15,150,The Locomotive Manipulation,Mark Cendrowski,Story by: Jim Reynolds & Steve Holland & Tara HernandezTeleplay by: Steven Molaro & Eric Kaplan & Maria Ferrari,2014-02-06,4X5314,17530000.0
+7,16,151,The Table Polarization,Gay Linvill,Story by: Steven Molaro & Maria Ferrari & Tara HernandezTeleplay by: Chuck Lorre & Jim Reynolds & Steve Holland,2014-02-27,4x5316,17730000.0
+7,17,152,The Friendship Turbulence,Mark Cendrowski,Story by: Steven Molaro & Eric Kaplan & Tara HernandezTeleplay by: Jim Reynolds & Steve Holland & Maria Ferrari,2014-03-06,4X5318,18090000.0
+7,18,153,The Mommy Observation,Mark Cendrowski,Story by: Jim Reynolds & Steve Holland & Maria FerrariTeleplay by: Steven Molaro & Eric Kaplan & Anthony Del Broccolo,2014-03-13,4x5319,17340000.0
+7,19,154,The Indecision Amalgamation,Anthony Rich,Story by: Bill Prady & Eric Kaplan & Jim ReynoldsTeleplay by: Steven Molaro & Dave Goetsch & Steve Holland,2014-04-03,4x5320,17730000.0
+7,20,155,The Relationship Diremption,Mark Cendrowski,Story by: Steven Molaro & Bill Prady & Jim ReynoldsTeleplay by: Chuck Lorre & Eric Kaplan & Steve Holland,2014-04-10,4X5321,16489999.999999998
+7,21,156,The Anything Can Happen Recurrence,Mark Cendrowski,Story by: Steven Molaro & Eric Kaplan & Adam FabermanTeleplay by: Jim Reynolds & Steve Holland & Tara Hernandez,2014-04-24,4x5322,16440000.000000002
+7,22,157,The Proton Transmogrification,Mark Cendrowski,Story by: Jim Reynolds & Maria Ferrari & Jeremy HoweTeleplay by: Steven Molaro & Eric Kaplan & Steve Holland,2014-05-01,4X5317[170],16070000.0
+7,23,158,The Gorilla Dissolution,Peter Chakos,Story by: Chuck Lorre & Jim Reynolds & Jeremy HoweTeleplay by: Steven Molaro & Steve Holland & Eric Kaplan,2014-05-08,4x5323,14420000.0
+7,24,159,The Status Quo Combustion,Mark Cendrowski,Story by: Eric Kaplan & Jim Reynolds & Jeremy HoweTeleplay by: Steven Molaro & Steve Holland & Tara Hernandez,2014-05-15,4X5324,16730000.0
+8,1,160,The Locomotion Interruption,Mark Cendrowski,Story by: Jim Reynolds & Maria Ferrari & Tara HernandezTeleplay by: Steven Molaro & Steve Holland & Eric Kaplan,2014-09-22,4X6751,18080000.0
+8,2,161,The Junior Professor Solution,Mark Cendrowski,Story by: Steven Molaro & Eric Kaplan & Steve HollandTeleplay by: Jim Reynolds & Maria Ferrari & Tara Hernandez,2014-09-22,4X6752,18300000.0
+8,3,162,The First Pitch Insufficiency,Mark Cendrowski,Story by: Chuck Lorre & Jim Reynolds & Anthony Del BroccoloTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2014-09-29,4X6753,18440000.0
+8,4,163,The Hook-up Reverberation,Mark Cendrowski,Story by: Steve Holland & Maria Ferrari & Tara HernandezTeleplay by: Steven Molaro & Eric Kaplan & Jim Reynolds,2014-10-06,4X6754,17940000.0
+8,5,164,The Focus Attenuation,Mark Cendrowski,Story by: Jim Reynolds & Maria Ferrari & Adam FabermanTeleplay by: Steven Molaro & Eric Kaplan & Steve Holland,2014-10-13,4X6755,17630000.0
+8,6,165,The Expedition Approximation,Mark Cendrowski,Story by: Steven Molaro & Dave Goetsch & Tara HernandezTeleplay by: Jim Reynolds & Steve Holland & Maria Ferrari,2014-10-20,4X6756,18020000.0
+8,7,166,The Misinterpretation Agitation,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Jim ReynoldsTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2014-10-30,4X6758,18250000.0
+8,8,167,The Prom Equivalency,Mark Cendrowski,Story by: Jim Reynolds & Steve Holland & Jeremy HoweTeleplay by: Steven Molaro & Eric Kaplan & Maria Ferrari,2014-11-06,4X6757,18560000.0
+8,9,168,The Septum Deviation,Anthony Rich,Story by: Steven Molaro & Bill Prady & Maria FerrariTeleplay by: Eric Kaplan & Steve Holland & Tara Hernandez,2014-11-13,4X6759,16900000.0
+8,10,169,The Champagne Reflection,Mark Cendrowski,Story by: Steven Molaro & Tara Hernandez & David Saltzberg & Ph.DTeleplay by: Jim Reynolds & Steve Holland & Dave Goetsch,2014-11-20,4X6760,16610000.0
+8,11,170,The Clean Room Infiltration,Mark Cendrowski,Story by: Maria Ferrari & Tara Hernandez & Jeremy HoweTeleplay by: Eric Kaplan & Jim Reynolds & Steve Holland,2014-12-11,4X6761,18490000.0
+8,12,171,The Space Probe Disintegration,Mark Cendrowski,Story by: Bill Prady & Eric Kaplan & Jim ReynoldsTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2015-01-08,4X6762,18110000.0
+8,13,172,The Anxiety Optimization,Mark Cendrowski,Story by: Eric Kaplan & Maria Ferrari & Adam FabermanTeleplay by: Jim Reynolds & Steve Holland & Tara Hernandez,2015-01-29,4X6763,17250000.0
+8,14,173,The Troll Manifestation,Mark Cendrowski,Story by: Steven Molaro & Eric Kaplan & Tara HernandezTeleplay by: Jim Reynolds & Steve Holland & Maria Ferrari,2015-02-05,4X6765,17090000.0
+8,15,174,The Comic Book Store Regeneration,Mark Cendrowski,Story by: Jim Reynolds & Maria Ferrari & Jeremy HoweTeleplay by: Steven Molaro & Eric Kaplan & Steve Holland,2015-02-19,4X6764,17490000.0
+8,16,175,The Intimacy Acceleration,Mark Cendrowski,Story by: Dave Goetsch & Eric Kaplan & Tara HernandezTeleplay by: Steven Molaro & Jim Reynolds & Steve Holland,2015-02-26,4X6766,16670000.000000002
+8,17,176,The Colonization Application,Mark Cendrowski,Story by: Dave Goetsch & Jim Reynolds & Tara HernandezTeleplay by: Steven Molaro & Eric Kaplan & Maria Ferrari,2015-03-05,4X6767,18170000.0
+8,18,177,The Leftover Thermalization,Mark Cendrowski,Story by: Steven Molaro & Maria Ferrari & Jeremy HoweTeleplay by: Eric Kaplan & Jim Reynolds & Steve Holland,2015-03-12,4X6768,18130000.0
+8,19,178,The Skywalker Incursion,Mark Cendrowski,Story by: Jim Reynolds & Tara Hernandez & Jeremy HoweTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2015-04-02,4X6769,16890000.0
+8,20,179,The Fortification Implementation,Mark Cendrowski,Story by: Jim Reynolds & Saladin Patterson & Tara HernandezTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2015-04-09,4X6770,16780000.0
+8,21,180,The Communication Deterioration,Mark Cendrowski,Story by: Dave Goetsch & Steve Holland & Jeremy HoweTeleplay by: Steven Molaro & Eric Kaplan & Jim Reynolds,2015-04-16,4X6771,16020000.0
+8,22,181,The Graduation Transmission,Anthony Rich,Story by: Chuck Lorre & Dave Goetsch & Anthony Del BroccoloTeleplay by: Steven Molaro & Steve Holland & Eric Kaplan,2015-04-23,4X6772,16629999.999999998
+8,23,182,The Maternal Combustion,Anthony Rich,Story by: Steven Molaro & Tara Hernandez & Jeremy HoweTeleplay by: Chuck Lorre & Jim Reynolds & Maria Ferrari,2015-04-30,4X6773,15850000.0
+8,24,183,The Commitment Determination,Mark Cendrowski,Story by: Chuck Lorre & Jim Reynolds & Maria FerrariTeleplay by: Steven Molaro & Steve Holland & Eric Kaplan,2015-05-07,4X6774,17640000.0
+9,1,184,The Matrimonial Momentum,Mark Cendrowski,Story by: Chuck Lorre & Jim Reynolds & Maria FerrariTeleplay by: Steven Molaro & Steve Holland & Eric Kaplan,2015-09-21,4X7201,18200000.0
+9,2,185,The Separation Oscillation,Mark Cendrowski,Story by: Steven Molaro & Steve Holland & Tara HernandezTeleplay by: Chuck Lorre & Jim Reynolds & Maria Ferrari,2015-09-28,4X7202,17230000.0
+9,3,186,The Bachelor Party Corrosion,Mark Cendrowski,Story by: Dave Goetsch & Jim Reynolds & Jeremy HoweTeleplay by: Steven Molaro & Steve Holland & Eric Kaplan,2015-10-05,4X7203,17400000.0
+9,4,187,The 2003 Approximation,Mark Cendrowski,Story by: Chuck Lorre & Steve Holland & Eric KaplanTeleplay by: Steven Molaro & Maria Ferrari & Tara Hernandez,2015-10-12,4X7204,16960000.0
+9,5,188,The Perspiration Implementation,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Maria FerrariTeleplay by: Steven Molaro & Jim Reynolds & Saladin K. Patterson,2015-10-19,4X7205,17680000.0
+9,6,189,The Helium Insufficiency,Mark Cendrowski,Story by: Steve Holland & Maria Ferrari & Anthony Del BroccoloTeleplay by: Steven Molaro & Eric Kaplan & Jim Reynolds,2015-10-26,4X7207,18320000.0
+9,7,190,The Spock Resonance,Nikki Lorre,Story by: Chuck Lorre & Jim Reynolds & Tara HernandezTeleplay by: Steven Molaro & Steve Holland & Jeremy Howe,2015-11-05,4X7206,18810000.0
+9,8,191,The Mystery Date Observation,Mark Cendrowski,Story by: Steven Molaro & Eric Kaplan & Jim ReynoldsTeleplay by: Chuck Lorre & Steve Holland & Tara Hernandez,2015-11-12,4X7208,17920000.0
+9,9,192,The Platonic Permutation,Mark Cendrowski,Story by: Jim Reynolds & Jeremy Howe & Tara HernandezTeleplay by: Steve Holland & Maria Ferrari & Adam Faberman,2015-11-19,4X7209,18190000.0
+9,10,193,The Earworm Reverberation,Mark Cendrowski,Story by: Eric Kaplan & Jim Reynolds & Saladin K. PattersonTeleplay by: Steven Molaro & Steve Holland & Jeremy Howe,2015-12-10,4X7210,19270000.0
+9,11,194,The Opening Night Excitation,Mark Cendrowski,Story by: Steven Molaro & Eric Kaplan & Tara HernandezTeleplay by: Steve Holland & Jim Reynolds & Maria Ferrari,2015-12-17,4X7211,18230000.0
+9,12,195,The Sales Call Sublimation,Mark Cendrowski,Story by: Steve Holland & Jim Reynolds & Saladin K. PattersonTeleplay by: Steven Molaro & Maria Ferrari & Anthony Del Broccolo,2016-01-07,4X7212,17850000.0
+9,13,196,The Empathy Optimization,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Dave GoetschTeleplay by: Steven Molaro & Steve Holland & Saladin K. Patterson,2016-01-14,4X7213,16750000.0
+9,14,197,The Meemaw Materialization,Mark Cendrowski,Story by: Chuck Lorre & Jim Reynolds & Maria FerrariTeleplay by: Steven Molaro & Steve Holland & Tara Hernandez,2016-02-04,4X7214,17290000.0
+9,15,198,The Valentino Submergence,Mark Cendrowski,Story by: Steven Molaro & Jim Reynolds & Tara HernandezTeleplay by: Steve Holland & Eric Kaplan & Jeremy Howe,2016-02-11,4X7215,18250000.0
+9,16,199,The Positive Negative Reaction,Mark Cendrowski,Story by: Eric Kaplan & Jim Reynolds & Saladin K. PattersonTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2016-02-18,4X7216,19060000.0
+9,17,200,The Celebration Experimentation,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Jeremy HoweTeleplay by: Steven Molaro & Steve Holland & Tara Hernandez,2016-02-25,4X7217,18940000.0
+9,18,201,The Application Deterioration,Mark Cendrowski,Story by: Steven Molaro & Eric Kaplan & Adam FabermanTeleplay by: Steve Holland & Jim Reynolds & Maria Ferrari,2016-03-10,4X7218,18680000.0
+9,19,202,The Solder Excursion Diversion,Mark Cendrowski,Story by: Bill Prady & Eric Kaplan & Maria FerrariTeleplay by: Steven Molaro & Steve Holland & Saladin K. Patterson,2016-03-31,4X7219,17240000.0
+9,20,203,The Big Bear Precipitation,Mark Cendrowski,Story by: Chuck Lorre & Dave Goetsch & Tara HernandezTeleplay by: Steven Molaro & Steve Holland & Jim Reynolds,2016-04-07,4X7220,17500000.0
+9,21,204,The Viewing Party Combustion,Mark Cendrowski,Story by: Eric Kaplan & Maria Ferrari & Jeremy HoweTeleplay by: Steven Molaro & Steve Holland & Tara Hernandez,2016-04-21,4X7221,17160000.0
+9,22,205,The Fermentation Bifurcation,Nikki Lorre,Story by: Steven Molaro & Jim Reynolds & Anthony Del BroccoloTeleplay by: Chuck Lorre & Steve Holland & Tara Hernandez,2016-04-28,4X7222,16129999.999999998
+9,23,206,The Line Substitution Solution,Anthony Rich,Story by: Steve Holland & Saladin K. Patterson & Tara HernandezTeleplay by: Steven Molaro & Eric Kaplan & Maria Ferrari,2016-05-05,4X7223,15220000.0
+9,24,207,The Convergence Convergence,Mark Cendrowski,Story by: Steven Molaro & Tara Hernandez & Adam FabermanTeleplay by: Chuck Lorre & Steve Holland & Jeremy Howe,2016-05-12,4X7224,16730000.0
+10,1,208,The Conjugal Conjecture,Mark Cendrowski,Story by: Chuck Lorre & Steve Holland & Tara HernandezTeleplay by: Steven Molaro & Eric Kaplan & Jim Reynolds,2016-09-19,T12.15303,18820000.0
+10,2,209,The Military Miniaturization,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Jim ReynoldsTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2016-09-26,T12.15301,17240000.0
+10,3,210,The Dependence Transcendence,Mark Cendrowski,Story by: Steven Molaro & Saladin K. Patterson & Tara HernandezTeleplay by: Steve Holland & Maria Ferrari & Jeremy Howe,2016-10-03,T12.15302,17320000.0
+10,4,211,The Cohabitation Experimentation,Mark Cendrowski,Story by: Chuck Lorre & Dave Goetsch & Maria FerrariTeleplay by: Steven Molaro & Steve Holland & Tara Hernandez,2016-10-10,T12.15304,16410000.0
+10,5,212,The Hot Tub Contamination,Mark Cendrowski,Story by: Chuck Lorre & Maria Ferrari & Tara HernandezTeleplay by: Steve Holland & Eric Kaplan & Jim Reynolds,2016-10-17,T12.15305,18200000.0
+10,6,213,The Fetal Kick Catalyst,Mark Cendrowski,Story by: Steve Holland & Tara Hernandez & Jeremy HoweTeleplay by: Steven Molaro & Saladin K. Patterson & Anthony Del Broccolo,2016-10-27,T12.15306,17310000.0
+10,7,214,The Veracity Elasticity,Mark Cendrowski,Story by: Steven Molaro & Eric Kaplan & Maria FerrariTeleplay by: Steve Holland & Jim Reynolds & Adam Faberman,2016-11-03,T12.15307,18180000.0
+10,8,215,The Brain Bowl Incubation,Mark Cendrowski,Story by: Chuck Lorre & Steve Holland & Saladin K. PattersonTeleplay by: Steven Molaro & Maria Ferrari & Tara Hernandez,2016-11-10,T12.15308,17470000.0
+10,9,216,The Geology Elevation,Mark Cendrowski,Story by: Chuck Lorre & Erik Kaplan & Maria FerrariTeleplay by: Steve Holland & Jim Reynolds & Jeremy Howe,2016-11-17,T12.15309,16340000.0
+10,10,217,The Property Division Collision,Mark Cendrowski,Story by: Steve Holland & Bill Prady & Steve GoetschTeleplay by: Steven Molaro & Maria Ferrari & Tara Hernandez,2016-12-01,T12.15310,16540000.0
+10,11,218,The Birthday Synchronicity,Nikki Lorre,Story by: Chuck Lorre & Steve Holland & Maria FerrariTeleplay by: Steven Molaro & Eric Kaplan & Tara Hernandez,2016-12-15,T12.15311,16960000.0
+10,12,219,The Holiday Summation,Mark Cendrowski,Story by: Steven Molaro & Eric Kaplan & Tara HernandezTeleplay by: Steve Holland & Maria Ferrari & Jeremy Howe,2017-01-05,T12.15312,17020000.0
+10,13,220,The Romance Recalibration,Mark Cendrowski,Story by: Chuck Lorre & Dave Goetsch & Anthony Del BroccoloTeleplay by: Steven Molaro & Steve Holland & Saladin K. Patterson,2017-01-19,T12.15313,17150000.0
+10,14,221,The Emotion Detection Automation,Mark Cendrowski,Story by: Chuck Lorre & Steven Molaro & Eric KaplanTeleplay by: Steve Holland & Jim Reynolds & Saladin K. Patterson,2017-02-02,T12.15314,16660000.0
+10,15,222,The Locomotion Reverberation,Mark Cendrowski,Story by: Chuck Lorre & Steve Holland & Jim ReynoldsTeleplay by: Steven Molaro & Maria Ferrari & Tara Hernandez,2017-02-09,T12.15315,16149999.999999998
+10,16,223,The Allowance Evaporation,Mark Cendrowski,Story by: Eric Kaplan & Maria Ferrari & Jeremy HoweTeleplay by: Steven Molaro & Steve Holland & Jim Reynolds,2017-02-16,T12.15316,15510000.0
+10,17,224,The Comic-Con Conundrum,Mark Cendrowski,Story by: Eric Kaplan & Saladin K. Patterson & Tara HernandezTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2017-02-23,T12.15317,16379999.999999998
+10,18,225,The Escape Hatch Identification,Mark Cendrowski,Story by: Steven Molaro & Eric Kaplan & Anthony Del BroccoloTeleplay by: Steve Holland & Jim Reynolds & Tara Hernandez,2017-03-09,T12.15318,17080000.0
+10,19,226,The Collaboration Fluctuation,Mark Cendrowski,Story by: Chuck Lorre & Tara Hernandez & Giuseppe GrazianoTeleplay by: Steven Molaro & Steve Holland & Dave Goetsch,2017-03-30,T12.15319,15780000.0
+10,20,227,The Recollection Dissipation,Mark Cendrowski,Story by: Eric Kaplan & Tara Hernandez & Jeremy HoweTeleplay by: Steven Molaro & Steve Holland & Maria Ferrari,2017-04-06,T12.15320,15590000.0
+10,21,228,The Separation Agitation,Mark Cendrowski,Story by: Steven Molaro & Jim Reynolds & Maria FerrariTeleplay by: Steve Holland & Tara Hernandez & Jeremy Howe,2017-04-13,T12.15321,16090000.0
+10,22,229,The Cognition Regeneration,Mark Cendrowski,Story by: Steve Holland & Tara Hernandez & Jeremy HoweTeleplay by: Dave Goetsch & Eric Kaplan & Jim Reynolds,2017-04-27,T12.15322,14520000.0
+10,23,230,The Gyroscopic Collapse,Anthony Rich,Story by: Chuck Lorre & Steve Holland & Alex AyersTeleplay by: Steven Molaro & Jim Reynolds & Saladin K. Patterson,2017-05-04,T12.15323,15390000.0
+10,24,231,The Long Distance Dissonance,Mark Cendrowski,Story by: Steven Molaro & Eric Kaplan & Jim ReynoldsTeleplay by: Chuck Lorre & Steve Holland & Tara Hernandez,2017-05-11,T12.15324,15990000.0
+11,1,232,The Proposal Proposal,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Jeremy HoweTeleplay by: Steve Holland & Maria Ferrari & Tara Hernandez,2017-09-25,T12.15601,17650000.0
+11,2,233,The Retraction Reaction,Mark Cendrowski,Story by: Steven Molaro & Steve Holland & Maria FerrariTeleplay by: Dave Goetsch & Eric Kaplan & Anthony Del Broccolo,2017-10-02,T12.15602,14060000.0
+11,3,234,The Relaxation Integration,Mark Cendrowski,Story by: Chuck Lorre & Steve Holland & Adam FabermanTeleplay by: Maria Ferrari & Andy Gordon & Tara Hernandez,2017-10-09,T12.15603,13130000.0
+11,4,235,The Explosion Implosion,Mark Cendrowski,Story by: Bill Prady & Maria Ferrari & Tara HernandezTeleplay by: Steve Holland & Eric Kaplan & Jeremy Howe,2017-10-16,T12.15604,13070000.0
+11,5,236,The Collaboration Contamination,Nikki Lorre,Story by: Steven Molaro & Steve Holland & Eric KaplanTeleplay by: Dave Goetsch & Maria Ferrari & Jeremy Howe,2017-10-23,T12.15605,13200000.0
+11,6,237,The Proton Regeneration,Mark Cendrowski,"Story by: Steven Molaro, Dave Goetsch, Alex YonksTeleplay by: Dave Steve Holland, Andy Gordon, Jeremy Howe",2017-11-02,T12.15606,14140000.0
+11,7,238,The Geology Methodology,Mark Cendrowski,Story by: Steve Holland & Anthony Del Broccolo & Adam FabermanTeleplay by: Eric Kaplan & Maria Ferrari & Tara Hernandez,2017-11-09,T12.15607,13800000.0
+11,8,239,The Tesla Recoil,Anthony Rich,Story by: Chuck Lorre & Eric Kaplan & Tara HernandezTeleplay by: Steve Holland & Maria Ferrari & Jeremy Howe,2017-11-16,T12.15608,13440000.0
+11,9,240,The Bitcoin Entanglement,Mark Cendrowski,Story by: Steve Holland & Andy Gordon & Jeremy HoweTeleplay by: Dave Goetsch & Maria Ferrari & Anthony Del Broccolo,2017-11-30,T12.15609,13840000.0
+11,10,241,The Confidence Erosion,Mark Cendrowski,Story by: Bill Prady & Maria Ferrari & Adam FabermanTeleplay by: Steve Holland & Eric Kaplan & Tara Hernandez,2017-12-07,T12.15610,14410000.0
+11,11,242,The Celebration Reverberation,Mark Cendrowski,Story by: Steve Holland & Eric Kaplan & Alex AyersTeleplay by: Dave Goetsch & Maria Ferrari & Jeremy Howe,2017-12-14,T12.15611,13740000.0
+11,12,243,The Matrimonial Metric,Mark Cendrowski,Story by: Maria Ferrari & Tara Hernandez & Jeremy HoweTeleplay by: Steve Holland & Eric Kaplan & Andy Gordon,2018-01-04,T12.15612,16160000.0
+11,13,244,The Solo Oscillation,Mark Cendrowski,Story by: Chuck Lorre & Steve Holland & Anthony Del BroccoloTeleplay by: Eric Kaplan & Maria Ferrari & Jeremy Howe,2018-01-11,T12.15613,15930000.0
+11,14,245,The Separation Triangulation,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Maria FerrariTeleplay by: Steven Molaro & Steve Holland & Tara Hernandez,2018-01-18,T12.15614,14920000.0
+11,15,246,The Novelization Correlation,Mark Cendrowski,Story by: Steve Holland & Andy Gordon & Adam FabermanTeleplay by: Eric Kaplan & Maria Ferrari & Jeremy Howe,2018-02-01,T12.15615,14690000.0
+11,16,247,The Neonatal Nomenclature,Gay Linvill,Story by: Eric Kaplan & Maria Ferrari & Anthony Del BroccoloTeleplay by: Steve Holland & Tara Hernandez & Adam Faberman,2018-03-01,T12.15616,13750000.0
+11,17,248,The Athenaeum Allocation,Mark Cendrowski,Story by: Steve Holland & Steven Molaro & Tara HernandezTeleplay by: Dave Goetsch & Eric Kaplan & Maria Ferrari,2018-03-08,T12.15617,13880000.0
+11,18,249,The Gates Excitation,Mark Cendrowski,Story by: Eric Kaplan & Maria Ferrari & Andy GordonTeleplay by: Steve Holland & Tara Hernadnez & Jeremy Howe,2018-03-29,T12.15618,13260000.0
+11,19,250,The Tenant Disassociation,Mark Cendrowski,Story by: Steve Holland & Jeremy Howe & Trevor AlperTeleplay by: Dave Goetsch & Eric Kaplan & Maria Ferrari,2018-04-05,T12.15619,13000000.0
+11,20,251,The Reclusive Potential,Mark Cendrowski,Story by: Maria Ferrari & Anthony Del Broccolo & Tara HernandezTeleplay by: Steve Holland & Eric Kaplan & Adam Faberman,2018-04-12,T12.15620,12770000.0
+11,21,252,The Comet Polarization,Mark Cendrowski,Story by: Steve Holland & Bill Prady & Eric KaplanTeleplay by: Maria Ferrari & Andy Gordon & Tara Hernandez,2018-04-19,T12.15621,12910000.0
+11,22,253,The Monetary Insufficiency,Nikki Lorre,Story by: Dave Goetsch & Maria Ferrari & Tara HernandezTeleplay by: Steve Holland & Eric Kaplan & Jeremy Howe,2018-04-26,T12.15622,11790000.0
+11,23,254,The Sibling Realignment,Mark Cendrowski,Story by: Steve Holland & Eric Kaplan & Anthony Del BroccoloTeleplay by: Dave Goetsch & Maria Ferrari & Jeremy Howe,2018-05-03,T12.15623,12930000.0
+11,24,255,The Bow Tie Asymmetry,Mark Cendrowski,Story by: Chuck Lorre & Steven Molaro & Maria FerrariTeleplay by: Steve Holland & Eric Kaplan & Tara Hernandez,2018-05-10,T12.15624,15510000.0
+12,1,256,The Conjugal Configuration,Mark Cendrowski,Story by: Chuck Lorre & Eric Kaplan & Tara HernandezTeleplay by: Steve Holland & Maria Ferrari & Jeremy Howe,2018-09-24,T12.16001,12920000.0
+12,2,257,The Wedding Gift Wormhole,Mark Cendrowski,Story by: Steve Holland & Steven Molaro & Maria FerrariTeleplay by: Dave Goetsch & Eric Kaplan & Andy Gordon,2018-09-27,T12.16002,12040000.0
+12,3,258,The Procreation Calculation,Mark Cendrowski,Story by: Chuck Lorre & Tara Hernandez & Adam FabermanTeleplay by: Steve Holland & Maria Ferrari & Anthony Del Broccolo,2018-10-04,T12.16003,12290000.0
+12,4,259,The Tam Turbulence,Mark Cendrowski,Story by: Steve Holland & Steven Molaro & Maria FerrariTeleplay by: Dave Goetsch & Eric Kaplan & Jeremy Howe,2018-10-11,T12.16004,12940000.0
+12,5,260,The Planetarium Collision,Mark Cendrowski,Story by: Eric Kaplan & Andy Gordon & Alex AyersTeleplay by: Steve Holland & Maria Ferrari & Tara Hernandez,2018-10-18,T12.16005,12220000.0
+12,6,261,The Imitation Perturbation,Mark Cendrowski,Story by: Steve Holland & Maria Ferrari & Tara HernandezTeleplay by: Eric Kaplan & Jeremy Howe & Adam Faberman,2018-10-25,T12.16006,12990000.0
+12,7,262,The Grant Allocation Derivation,Mark Cendrowski,Story by: Eric Kaplan & Anthony Del Broccolo & Alex YonksTeleplay by: Steve Holland & Dave Goetsch & Maria Ferrari,2018-11-01,T12.16007,12640000.0
+12,8,263,The Consummation Deviation,Mark Cendrowski,Story by: Chuck Lorre & Steve Holland & Maria FerrariTeleplay by: Eric Kaplan & Andy Gordon & Adam Faberman,2018-11-08,T12.16008,12850000.0
+12,9,264,The Citation Negation,Kristy Cecil,Story by: Eric Kaplan & Tara Hernandez & Jeremy HoweTeleplay by: Steve Holland & Dave Goetsch & Maria Ferrari,2018-11-15,T12.16009,12560000.0
+12,10,265,The VCR Illumination,Mark Cendrowski,Story by: Steve Holland & Steven Molaro & Bill PradyTeleplay by: Maria Ferrari & Andy Gordon & Jeremy Howe,2018-12-06,T12.16010,12520000.0
+12,11,266,The Paintball Scattering,Mark Cendrowski,Story by: Maria Ferrari & Tara Hernandez & Adam FabermanTeleplay by: Steve Holland & Eric Kaplan & Anthony Del Broccolo,2019-01-03,T12.16011,12800000.0
+12,12,267,The Propagation Proposition,Mark Cendrowski,Story by: Chuck Lorre & Steve Holland & Jeremy HoweTeleplay by: Maria Ferrari & Dave Goetsch & Eric Kaplan,2019-01-10,T12.16012,13530000.0
+12,13,268,The Confirmation Polarization,Mark Cendrowski,Story by: Eric Kaplan & Andy Gordon & Anthony Del BroccoloTeleplay by: Steve Holland & Maria Ferrari & Tara Hernandez,2019-01-17,T12.16013,13320000.0
+12,14,269,The Meteorite Manifestation,Mark Cendrowski,Story by: Chuck Lorre & Steve Holland & Maria FerrariTeleplay by: Eric Kaplan & Tara Hernandez & Jeremy Howe,2019-01-31,T12.16014,13660000.0
+12,15,270,The Donation Oscillation,Mark Cendrowski,Story by: Bill Prady & Jeremy Howe & Adam FabermanTeleplay by: Steve Holland & Dave Goetsch & Maria Ferrari,2019-02-07,T12.16015,13970000.0
+12,16,271,The D & D Vortex,Mark Cendrowski,Story by: Steve Holland & Maria Ferrari & Anthony Del BroccoloTeleplay by: Eric Kaplan & Andy Gordon & Tara Hernandez,2019-02-21,T12.16016,13480000.0
+12,17,272,The Conference Valuation,Mark Cendrowski,Story by: Chuck Lorre & Steven Molaro & Eric KaplanTeleplay by: Steve Holland & Maria Ferrari & Jeremy Howe,2019-03-07,T12.16017,12990000.0
+12,18,273,The Laureate Accumulation,Mark Cendrowski,Story by: Steve Holland & Adam Faberman & David SaltzbergTeleplay by: Dave Goetsch & Eric Kaplan & Maria Ferrari,2019-04-04,T12.16018,12220000.0
+12,19,274,The Inspiration Deprivation,Mark Cendrowski,Story by: Eric Kaplan & Maria Ferrari & Andy GordonTeleplay by: Steve Holland & Anthony Del Broccolo & Tara Hernandez,2019-04-18,T12.16019,11440000.0
+12,20,275,The Decision Reverberation,Mark Cendrowski,Story by: Steven Molaro & Steve Holland & Tara HernandezTeleplay by: Eric Kaplan & Maria Ferrari & Jermey Howe,2019-04-25,T12.16020,11840000.0
+12,21,276,The Plagiarism Schism,Nikki Lorre,Story by: Eric Kaplan & Maria Ferrari & Adam FabermanTeleplay by: Steve Holland & Dave Goetsch & Tara Hernandez,2019-05-02,T12.16021,12480000.0
+12,22,277,The Maternal Conclusion,Kristy Cecil,Story by: Steve Holland & Eric Kaplan & Jeremy HoweTeleplay by: Maria Ferrari & Andy Gordon & Anthony Del Broccolo,2019-05-09,T12.16022,12590000.0
+12,23,278,The Change Constant,Mark Cendrowski,Chuck Lorre & Steve Holland & Steven Molaro & Bill Prady & Dave Goetsch & Eric Kaplan & Maria Ferrari & Andy Gordon & Anthony Del Broccolo & Tara Hernandez & Jeremy Howe & Adam Faberman,2019-05-16,T12.16023,18520000.0
+12,24,279,The Stockholm Syndrome,Mark Cendrowski,Chuck Lorre & Steve Holland & Steven Molaro & Bill Prady & Dave Goetsch & Eric Kaplan & Maria Ferrari & Andy Gordon & Anthony Del Broccolo & Tara Hernandez & Jeremy Howe & Adam Faberman,2019-05-16,T12.16024,18520000.0
